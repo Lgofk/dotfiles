@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"countr",
+				"country_code"
+			],
+			[
+				"ma",
+				"mailgunTransport"
+			],
+			[
+				"la",
+				"langObj"
+			],
+			[
+				"succ",
+				"success〔variable〕"
+			],
+			[
+				"succe",
+				"successfully"
+			],
+			[
+				"lang",
+				"langObj〔variable〕"
+			],
+			[
+				"requ",
+				"require〔function〕"
+			],
+			[
+				"active",
+				"activeUsersList"
+			],
+			[
+				"config",
+				"configs/socket-io.js"
+			],
+			[
+				"notifi",
+				"notificationsHelper"
+			],
+			[
+				"l",
+				"lang"
+			],
+			[
+				"hel",
+				"helpers"
+			],
+			[
+				"Notifi",
+				"NotificationsHelper"
+			],
+			[
+				"remove",
+				"removeResp"
+			],
+			[
+				"upda",
+				"updateResp"
+			],
+			[
+				"noti",
+				"notification"
+			],
+			[
+				"not",
+				"notification"
+			],
+			[
+				"notif",
+				"notificationObj"
+			],
+			[
+				"Noti",
+				"NotificationsSchema"
+			],
+			[
+				"node",
+				"nodemon"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 940,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/users/index.js",
+			"settings":
+			{
+				"buffer_size": 560,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "to space",
+		"selected_items":
+		[
+			[
+				"to space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"to spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			]
+		],
+		"width": 657.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"clear",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/el/Projects/salontime-api",
+		"/home/el/Projects/salontime-api/api",
+		"/home/el/Projects/salontime-api/api/workers",
+		"/home/el/Projects/salontime-api/routes"
+	],
+	"file_history":
+	[
+		"/home/el/dev/.dotfiles/.gitignore",
+		"/home/el/dev/.scripts/tlp_start_ac.sh",
+		"/home/el/dev/.scripts/sddm_restart.sh",
+		"/home/el/Projects/salontime-api/api/workers/index.js",
+		"/home/el/Projects/salontime-api/api/workers/workers.model.js",
+		"/home/el/Projects/salontime-api/api/users/users.model.js",
+		"/home/el/Projects/salontime-api/api/workers/workers.controller.js",
+		"/home/el/Projects/salontime-api/api/clients/clients.model.js",
+		"/home/el/Projects/salontime-api/api/clients/clients.controller.js",
+		"/home/el/Projects/salontime-api/api/helpers/clients.helper.js",
+		"/home/el/Projects/salontime-api/api/notifications/notifications.controller.js",
+		"/home/el/Projects/salontime-api/api/helpers/users.helper.js",
+		"/home/el/Projects/salontime-api/configs/socket-io.js",
+		"/home/el/Projects/salontime-api/api/users/users.controller.js",
+		"/home/el/Projects/salontime-api/api/users/index.js",
+		"/home/el/Projects/salontime-api/configs/env/development.json",
+		"/home/el/Projects/salontime-api/app.js",
+		"/home/el/Projects/salontime-api/api/helpers/helpers.js",
+		"/home/el/Projects/salontime-api/configs/email-service.js",
+		"/home/el/Projects/salontime-api/api/billings/billings.model.js",
+		"/home/el/Projects/salontime-api/api/helpers/billings.helper.js",
+		"/home/el/Projects/salontime-api/api/helpers/notifications.helper.js",
+		"/home/el/Projects/salontime-api/api/helpers/active-users.helpers.js",
+		"/home/el/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/el/Projects/salontime-api/api/notifications/notifications.model.js",
+		"/home/el/.zshrc",
+		"/home/el/Projects/salontime-api/api/helpers/language/lang_en.json",
+		"/home/el/.config/sublime-text-3/Packages/FuzzyFilePath/FuzzyFilePath.sublime-settings",
+		"/home/el/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/el/.config/sublime-text-3/Packages/User/FuzzyFilePath.sublime-settings",
+		"/home/el/Projects/salontime-api/models/index.js",
+		"/usr/share/plymouth/themes/eionix-cat/eionix-cat.plymouth",
+		"/usr/share/plymouth/themes/eionix-cat/eionix-cat.script",
+		"/usr/lib/x86_64-linux-gnu/plymouth/script.so",
+		"/home/el/Projects/salontime-api/salontime-api.sublime-project",
+		"/home/el/Projects/salontime-api/package.json",
+		"/home/el/Projects/salontime-api/.gitignore",
+		"/home/el/Projects/salontime/server/configs/express.js",
+		"/home/el/Projects/salontime/app.js",
+		"/home/el/Projects/salontime/server/configs/env/development.json",
+		"/home/el/Projects/salontime/package.json",
+		"/home/el/Projects/salontime/server/api/users/users.controller.js",
+		"/home/el/Projects/salontime/salontime.sublime-project",
+		"/home/el/Projects/salontime/.gitignore",
+		"/home/el/Projects/salontime/.angular-cli.json"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"notificationsResp",
+			"resp",
+			"helpersConfigs",
+			"configs/env/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"notificationsResp"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "api/users/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.52052500759,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "salontime-api.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user",
+				"api/helpers/users.helper.js"
+			],
+			[
+				"he",
+				"api/helpers/helpers.js"
+			],
+			[
+				"bil",
+				"api/billings/billings.model.js"
+			],
+			[
+				"u",
+				"api/helpers/users.helper.js"
+			],
+			[
+				"mode",
+				"api/notifications/notifications.model.js"
+			],
+			[
+				"notific",
+				"api/notifications/notifications.model.js"
+			],
+			[
+				"clien",
+				"api/clients/clients.controller.js"
+			],
+			[
+				"notifi",
+				"api/notifications/notifications.controller.js"
+			],
+			[
+				"client",
+				"api/helpers/clients.helper.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				".gi",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
