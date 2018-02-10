@@ -17,4 +17,4 @@ dotfiles to prevent me from burning.
 ## Plymooth Theme
 | Theme | Link |
 | ------ | ------ |
-| Cat | [krishnan793/PlymoothTheme-Cat](https://github.com/krishnan793/PlymouthTheme-Cat)
+| Cat | [lgofk/PlymoothTheme-Cat](https://github.com/lgofk/PlymouthTheme-Cat)
