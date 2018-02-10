@@ -13,3 +13,8 @@ dotfiles to prevent me from burning.
 | Hack | [source-foundry/Hack](https://github.com/source-foundry/Hack) |
 | Iosevka | [be5invis/Iosevka](https://github.com/be5invis/Iosevka) |
 | Powerline Fonts | [powerline/fonts](https://github.com/powerline/fonts) | 
+
+## Plymooth Theme
+| Theme | Link |
+| ------ | ------ |
+| Cat | [krishnan793/PlymoothTheme-Cat](https://github.com/krishnan793/PlymouthTheme-Cat)
